@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+}
+.fa-quote-right {
+    font-size: 40px;
+}
+
+
+.green-box {
+    height: 600px;
+    background: #35cd9f;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.card {
+    width: 350px;
+    height: 450px;
+    background: #162029;
+    margin-right: 30px;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fa-quote-right {
+    margin-top: 60px;
+    text-align: center;
+    display: block;
+    color: #35cd9f;
+    font-size: 60px;
+}
+
+.text {
+    color: white;
+    font-family: Candara;
+    text-align: center;
+    width: 80%;
+
+}
+
+.photo-box {
+    width: 40px;
+    display: flex;
+
+
+
+
+}
+.image {
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    box-sizing: border-box;
+
+}
+
+.name {
+    color: #35cd9f;
+    font-family: Candara;
+    font-size: 20px;
+    margin-top: 10px;
+    font-weight: bold;
+
+}
